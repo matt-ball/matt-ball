@@ -1,7 +1,7 @@
 If you're here, you might be interested in:
 
 - Postman's [public workspace](https://www.postman.com/postman/workspace/postman-public-workspace/) containing interesting and useful collections
-- The official [Solutions Engineering](https://github.com/postmanlabs/solutions) repo [@postmanlabs](https://github.com/postmanlabs)
+- The official [Solutions Engineering](https://github.com/postman-solutions-eng) org [@postmanlabs](https://github.com/postmanlabs)
 
 
 
